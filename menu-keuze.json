@@ -28,7 +28,9 @@
     "alertBoxPositiefH3": "Formulier is ontvangen",
     "alertBoxNegatiefH3": "Formulier is niet ontvangen raadpleeg een medewerker",
     "closeModal": "Sluiten",
-    "closeModalNegatief": "Sluiten"
+    "closeModalNegatief": "Sluiten",
+    "locationH3": "Om dit formulier te kunnen gebruiken wordt er om uw locatie gevraagd",
+    "closeLocation": "Sluiten"
   },
   "en": {
     "givenName": "Your given name",
@@ -59,6 +61,8 @@
     "alertBoxPositiefH3": "Form is received",
     "alertBoxNegatiefH3": "Form is not received consult a staff member",
     "closeModal": "Close",
-    "closeModalNegatief": "Close"
+    "closeModalNegatief": "Close",
+    "locationH3": "To use this form, you will be asked for your location",
+    "closeLocation": "Close"
   }
 }
