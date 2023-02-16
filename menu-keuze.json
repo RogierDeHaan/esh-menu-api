@@ -30,6 +30,7 @@
     "closeModal": "Sluiten",
     "closeModalNegatief": "Sluiten",
     "locationH3": "Om dit formulier te kunnen gebruiken wordt er straks om uw locatie gevraagd",
+    "locationH3Negatief": "Formulier is niet verzonden omdat u niet bij de ESH bent",
     "closeLocation": "Sluiten"
   },
   "en": {
@@ -63,6 +64,7 @@
     "closeModal": "Close",
     "closeModalNegatief": "Close",
     "locationH3": "You will be asked for your location in order to use this form",
+    "locationH3Negatief": "Form has not been sent because you are not at the ESH",
     "closeLocation": "Close"
   }
 }
